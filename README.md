@@ -634,8 +634,8 @@ hdbscan
 
 ```bash
 # Clone repository
-git clone https://github.com/NitinSudarsanam/corvid-research-uta-reu.git
-cd corvid-research-uta-reu
+git clone https://github.com/UTA-ACL2/corvids_vocal_repertoire.git
+cd corvids_vocal_repertoire
 
 # Create virtual environment
 python -m venv venv
@@ -926,15 +926,6 @@ Integration with external crow call classifier:
 
 ---
 
-## Contributing
-
-This is a research project developed at the University of Texas at Arlington REU program. For questions or collaboration:
-
-- **Repository**: [github.com/NitinSudarsanam/corvid-research-uta-reu](https://github.com/NitinSudarsanam/corvid-research-uta-reu)
-- **Issues**: Open GitHub issues for bugs or feature requests
-
----
-
 ## License
 
 Research and educational use. Please cite if you use this code in your work.
@@ -944,7 +935,7 @@ Research and educational use. Please cite if you use this code in your work.
 ## Acknowledgments
 
 - National Science Foundation REU Program
-- UTA REU Program
+- This is a research project developed at the University of Texas at Arlington REU program.
 - Pre-trained model authors (AudioMAE, PANNs, AVES teams)
 - Cornell Lab of Ornithology (Macaulay Library audio datasets)
 - Xeno-canto bird sound database
