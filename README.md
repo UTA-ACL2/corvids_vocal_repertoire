@@ -42,7 +42,7 @@ The research aims to understand vocal repertoires, identify species-specific and
 ## Project Structure
 
 ```
-corvid-research-uta-reu/
+corvids_vocal_repertoire/
 ├── main/
 │   ├── denoising/          # Audio preprocessing and noise reduction
 │   ├── separation/         # Call detection and segmentation
@@ -805,7 +805,7 @@ For variable-length calls, features are aggregated:
 Expected directory structure:
 
 ```
-corvid-research-uta-reu/
+corvids_vocal_repertoire/
 ├── data/
 │   ├── brachyrhynchos/
 │   │   ├── raw/              # Original recordings
